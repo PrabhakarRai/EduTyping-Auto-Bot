@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EduTyping Bot (Script)
-// @namespace    https://www.theprabhakar.in/
-// @version      1.0
+// @namespace    https://madlearner.in/
+// @version      2025.2
 // @description  Browser counterpart of EduTyping Bot
 // @author       Prabhakar Rai
 // @match        https://www.edutyping.com/student/lesson/*
